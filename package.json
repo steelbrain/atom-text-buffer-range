@@ -1,0 +1,28 @@
+{
+  "name": "atom-text-buffer-range",
+  "version": "1.0.0",
+  "description": "Range class from Atom's TextBuffer",
+  "main": "range.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steelbrain/atom-text-buffer-range.git"
+  },
+  "keywords": [
+    "atom",
+    "text",
+    "buffer",
+    "range"
+  ],
+  "author": "steelbrain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steelbrain/atom-text-buffer-range/issues"
+  },
+  "homepage": "https://github.com/steelbrain/atom-text-buffer-range#readme",
+  "dependencies": {
+    "atom-text-buffer-point": "^1.0.0"
+  }
+}
