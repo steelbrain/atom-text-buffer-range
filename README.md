@@ -1,4 +1,6 @@
 # TextBuffer-Range
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/steelbrain/atom-text-buffer-range.svg)](https://greenkeeper.io/)
 The Range module from TextBuffer. To be used when you don't want to include the entire textbuffer module.
 
 ## Installation
